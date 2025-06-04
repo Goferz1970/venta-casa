@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Venta de Casa - Sevilla</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8f9fa;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #007bff;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    .container {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+    }
+    .info {
+      margin-bottom: 1.5rem;
+    }
+    .info h2 {
+      color: #007bff;
+    }
+    .extras, .contacto {
+      margin-top: 2rem;
+    }
+    .gallery img {
+      max-width: 100%;
+      height: auto;
+      margin-bottom: 1rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🏡 Se vende casa en Sevilla – Calle Fernando Álvarez de Toledo</h1>
+</header>
+
+<div class="container">
+  <div class="info">
+    <h2>Detalles de la vivienda</h2>
+    <ul>
+      <li><strong>Superficie:</strong> 155 m²</li>
+      <li><strong>Plantas:</strong> 3</li>
+      <li><strong>Habitaciones:</strong> 4</li>
+      <li><strong>Baños:</strong> 2</li>
+      <li><strong>Precio:</strong> 500.000 € (negociables)</li>
+    </ul>
+  </div>
+
+  <div class="extras">
+    <h2>Extras incluidos</h2>
+    <ul>
+      <li>Aire acondicionado en todas las habitaciones y el salón</li>
+      <li>Garaje para dos coches</li>
+      <li>Azotea con toldo, casetilla, fregadero y mini frigorífico</li>
+      <li>2 balcones exteriores</li>
+      <li>Patio interior con lavadora</li>
+      <li>Todas las habitaciones con ventanas exteriores</li>
+    </ul>
+  </div>
+
+  <div class="contacto">
+    <h2>Contacto</h2>
+    <p>¿Interesado en una visita o más información?</p>
+    <p>Llama o escribe al: <strong>[Tu número aquí]</strong></p>
+    <p>O envía un correo a: <strong>goferz@hotmail.com</strong></p>
+  </div>
+
+  <div class="gallery">
+    <!-- Aquí puedes añadir fotos si las tienes -->
+    <!-- <img src="tu-foto1.jpg" alt="Foto casa"> -->
+  </div>
+</div>
+
+<footer>
+  Página generada con ayuda de ChatGPT – OpenAI © 2025
+</footer>
+
+</body>
+</html>
